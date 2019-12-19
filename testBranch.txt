@@ -1,0 +1,4 @@
+- 测试git branch.
+
+提交代码的指令为:
+git push origin newBranch:newBranch
